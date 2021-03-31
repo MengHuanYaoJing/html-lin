@@ -1,6 +1,7 @@
 #用html做出来的东方玲仙，复制来源为https://gitee.com/touhousupport/reisen/blob/master/reisen.html#
 #视频来源：https://www.bilibili.com/video/BV1f541177yY
 #感谢视频作者的收集，本代码仅供备份
+
 <html>
 <body bgcolor=000000>
 <table boder=0 cellpadding=0 cellspacing=0>
